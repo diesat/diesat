@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+Hi all, my name is Aaron Dies and I am a senior Computer Science student at Grand Valley State University. I enjoy swimming, weightlifting, coding, and spending time with friends and family.
+## Experience
+This past summer I was a manufacturing systems intern at AM General working a lot with SAP and Cumulocity. I received an extended offer and am currently working remotely.
+## Contact Information
+How to reach me: diesa@mail.gvsu.edu
 
 <!--
 **diesat/diesat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
